@@ -9,4 +9,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="TheDLL">
+      <HintPath>..\..\TheDLL\TheDLL\bin\Debug\net6.0-windows\TheDLL.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
